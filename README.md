@@ -22,9 +22,6 @@ okx -> ethereum/zksync/linea/base/arbitrum/optimism ->
 
 orbiter/nitro/native/layerswap -> automatic routing -> orbiter/nitro/native/layerswap -> ethereum/zksync/linea/base/arbitrum/optimism -> okx
 
-## Full video reference
-https://www.youtube.com/@chainsci/videos
-
 ## Installation tutorial
 
 python3.9
